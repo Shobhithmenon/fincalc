@@ -38,7 +38,9 @@
                 android:layout_width="match_parent"
                 android:id="@+id/simpleinterest"
                 android:layout_height="50dp"
-                android:text="Simple Interest"/>
+                android:text="Simple Interest"
+                android:background="@drawable/button"
+                android:textColor="@color/colorPrimaryDark"/>
 
 
         </LinearLayout>
